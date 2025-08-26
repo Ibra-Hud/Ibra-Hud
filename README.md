@@ -32,12 +32,13 @@ In 2024, I took a non-traditional route into software engineering, and I can pro
 
 ## 📌 Featured Projects
 
-### 📝 Renaissance
+### 📝 REN|AI (aka Renaissance)
 An **AI-powered note-taking app** that transforms ideas into actionable goals so users can turn them into a product.  
 - Built with **PERN Stack** & **TypeScript**
 - Custom AI algorithms for semantic note analysis
 - RESTful API with 20+ endpoints, Stripe payments, secure session management
-- Cross-platform with **React Native** and **Expo**  
+- Cross-platform with **React Native** and **Expo**
+- Currently in **Beta** with **Apple Testflight**
 
 ### 🌱 Green Quest
 An **eco-friendly habit tracker** that gamifies sustainable actions.  
@@ -52,7 +53,7 @@ An **eco-friendly habit tracker** that gamifies sustainable actions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ibrahim-hudson-swe)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimhudson61@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ibra-Hud)  
-**Portfolio Coming Soon!**
+[![Portfolio](https://www.iaso.dev/)
 
 ---
 

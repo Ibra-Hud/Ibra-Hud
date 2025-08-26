@@ -2,9 +2,8 @@
 In 2024, I took a non-traditional route into software engineering, and I can proudly say I’ve built full-stack web and mobile applications using modern technologies. I’m passionate about building meaningful products that combine great user experience with scalable engineering.
 
 - 📱 Currently working on **Renaissance**, an AI-powered note-taking app built with the PERN stack & TypeScript
-- 🌱 Learning **React Native** & **TypeScript** for cross-platform development
-- 💬 Ask me about **full-stack applications, AI integrations,** or **web/mobile development**
-- 📧 How to reach me: **ibrahimhudson61@gmail.com**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         - 💬 Ask me about **full-stack applications, AI integrations,** or **web/mobile development**
+- 📧 How to reach me: **ibrahim.hudson.swe@gmail.com**
 - ⚽ Fun fact: Outside of coding, I’m either doing photography, gaming, or playing soccer
 
 ---

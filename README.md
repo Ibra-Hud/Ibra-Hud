@@ -37,7 +37,7 @@ An **AI-powered note-taking app** that transforms ideas into actionable goals so
 - Custom AI algorithms for semantic note analysis
 - RESTful API with 20+ endpoints, Stripe payments, secure session management
 - Cross-platform with **React Native** and **Expo**
-- Currently in **Beta** with **Apple Testflight**
+- Currently on the **Apple Store**
 
 ### 🌱 Green Quest
 An **eco-friendly habit tracker** that gamifies sustainable actions.  
